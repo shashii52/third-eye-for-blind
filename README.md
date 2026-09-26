@@ -58,6 +58,3 @@ The project report describes obstacle detection up to approximately 200 cm.
 - HC-SR04 Ultrasonic Sensor
 - Arduino IDE
 
-## ⚠️ Note
-
-The Arduino implementation in this repository was recreated based on the project's academic report because the original source code was not available.
